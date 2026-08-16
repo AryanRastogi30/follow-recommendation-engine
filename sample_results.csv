@@ -1,0 +1,11 @@
+rank,user_id,name,city,country,shared_interests,affinity_score
+1,46494,John Raddatz,Mungeli,India,fitness; gaming; music,0.8293
+2,37390,Iris Bacich,Nowshera Cantonment,Pakistan,fitness; music,0.8019
+3,45171,Donald Dooley,Rājaldesar,India,fitness; music,0.7853
+4,40065,Annette Gandolfi,Khetri,India,fitness; technology,0.7838
+5,14754,William Miron,Biswān,India,fitness; music; technology,0.7798
+6,25378,Jesse Brown,Aklera,India,gaming; music,0.7573
+7,94763,Mildred Aaron,Raja Jang,Pakistan,fitness; music,0.7517
+8,50943,Orlando Diaz,Jahāzpur,India,fitness; gaming,0.7517
+9,91075,Gregory Sweitzer,Shāhpur,India,fitness,0.7511
+10,81907,Carol Clance,Rohtak,India,fitness; gaming,0.7338
