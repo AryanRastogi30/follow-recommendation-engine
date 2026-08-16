@@ -831,14 +831,14 @@ The request accepts:
 
 ```json
 {
-  "name": "Test Candidate",
+  "name": "Rohan Verma",
   "gender": "Male",
-  "age": 24,
+  "age": 23,
   "interests": [
     "Technology",
     "Gaming",
     "Music",
-    "Travel"
+    "Fitness"
   ],
   "city": "Delhi",
   "country": "India",
